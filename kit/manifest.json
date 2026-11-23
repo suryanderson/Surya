@@ -1,11 +1,11 @@
 {
  "kit": {
-  "sha256": "96bc7bdd9a47022a7c149c5af43af4bf694c0149a4b51a917c3eae0b286daadb",
-  "bytes": 2360215
+  "sha256": "d44f6c576253ad8e71d423f3d7d7efc6b936a2ea7c0c4f4c477a8f4f0015e269",
+  "bytes": 2363715
  },
  "cur": {
-  "sha256": "89a7f912dd72526f4b8feafdfa03eff50b0110c11fc5254ad7067a2ef79788bb",
-  "bytes": 856388
+  "sha256": "2ddb940bc09759c6d3ec35b3ca42275228f8a88ff1ff056fecd5938256627922",
+  "bytes": 799857
  },
  "hist": {
   "sha256": "8568ccf7e6b4b3d7a7214f03b4afefe69d3a9d129c2d57944a92cb1ac3947317",
